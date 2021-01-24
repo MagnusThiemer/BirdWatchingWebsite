@@ -8,6 +8,9 @@ The zip file contains:
 * CSS to style your markup.
 * Images that are used on the page.
 
+## Objective	
+
+To test knowledge of web page structures, and how to represent a prospective layout design in markup.
 
 ## Project brief
 

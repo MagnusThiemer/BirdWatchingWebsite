@@ -37,7 +37,7 @@ You should go and grab the zip file containing all the starting assets.
 
 **Hint and help:** 
 The provided CSS is designed so that when the correct structural elements are added to the markup, they will appear green in the rendered page.
-Using HTML sections and outlines: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML_sections_and_outlines
+Read this article: Using HTML sections and outlines for help: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML_sections_and_outlines
 <br><br>
 Happy Hacking
 <br><br>

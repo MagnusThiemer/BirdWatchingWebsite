@@ -12,7 +12,7 @@ The zip file contains:
 
 To test knowledge of web page structures, and how to represent a prospective layout design in markup.
 
-## Project brief
+### Project brief
 
 For this project, your task is to take the content for the homepage of a bird watching website and add structural elements to it so it can have a page layout applied to it. It needs to have:
 

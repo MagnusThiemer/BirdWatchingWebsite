@@ -21,7 +21,7 @@ For this project, your task is to take the content for the homepage of a bird wa
 * A footer containing copyright information and credits.
 
 
-**You need to add a suitable wrapper element for:**
+### You need to add a suitable wrapper element for
 
 * The header
 * The navigation menu
@@ -30,7 +30,7 @@ For this project, your task is to take the content for the homepage of a bird wa
 * The image sidebar
 * The footer
 
-**You should also:**
+### You should also
 
 Apply the provided CSS to the page by adding another <link> element just below the existing one provided at the start.
 You don't need to know any CSS to do this assessment; you just need to put the provided CSS inside an HTML element.

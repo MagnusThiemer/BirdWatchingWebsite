@@ -37,4 +37,4 @@ You should go and grab the zip file containing all the starting assets.
 
 **Hint:** The provided CSS is designed so that when the correct structural elements are added to the markup, they will appear green in the rendered page.
 <br>
-Happy Hacking-
+Happy Hacking

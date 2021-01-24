@@ -25,7 +25,7 @@ For this project, your task is to take the content for the homepage of a bird wa
 ### You should also
 
 Apply the provided CSS to the page by adding another <link> element just below the existing one provided at the start.
-You don't need to know any CSS to do this assessment; you just need to put the provided CSS inside an HTML element.
+You **don't** need to know any CSS to do this assessment; you just need to put the provided CSS inside an HTML element.
 
 ### To get this assessment started 
 You should go and grab the zip file containing all the starting assets.

@@ -36,5 +36,5 @@ Apply the provided CSS to the page by adding another <link> element just below t
 You don't need to know any CSS to do this assessment; you just need to put the provided CSS inside an HTML element.
 
 **Hint:** The provided CSS is designed so that when the correct structural elements are added to the markup, they will appear green in the rendered page.
-
+<br><br>
 Happy Hacking

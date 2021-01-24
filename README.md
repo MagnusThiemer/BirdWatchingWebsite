@@ -36,5 +36,9 @@ You should go and grab the zip file containing all the starting assets.
 * Images that are used on the page.
 
 **Hint:** The provided CSS is designed so that when the correct structural elements are added to the markup, they will appear green in the rendered page.
-<br>
+<br><br>
 Happy Hacking
+<br><br>
+***Source:***
+https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Structuring_a_page_of_content<br>
+Originaleksempel skrevet af Chris Mills, 2016.

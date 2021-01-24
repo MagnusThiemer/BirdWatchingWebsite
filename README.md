@@ -35,7 +35,8 @@ You should go and grab the zip file containing all the starting assets.
 * CSS to style your markup.
 * Images that are used on the page.
 
-**Hint and help:** 
+**Hint and help:**
+<br>
 The provided CSS is designed so that when the correct structural elements are added to the markup, they will appear green in the rendered page.<br>
 For help, read this article: Using HTML sections and outlines: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML_sections_and_outlines
 <br><br>

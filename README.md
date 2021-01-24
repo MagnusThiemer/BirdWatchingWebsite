@@ -30,3 +30,7 @@ For this project, your task is to take the content for the homepage of a bird wa
 **You should also:**
 
 Apply the provided CSS to the page by adding another <link> element just below the existing one provided at the start.
+You don't need to know any CSS to do this assessment; you just need to put the provided CSS inside an HTML element.
+
+**Hint:**
+The provided CSS is designed so that when the correct structural elements are added to the markup, they will appear green in the rendered page.

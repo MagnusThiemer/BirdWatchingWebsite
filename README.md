@@ -7,7 +7,7 @@ To test knowledge of web page structures, and how to represent a prospective lay
 ### Project brief
 1. For this project, your first task is to refactor the file structure. At the moment everything is placed in the project root directory. This is not at all ideal for the overview. 
 
-**Add project structure**
+**Add project structure:**
 * Place only HTML files in the root folder
 * Make a directory to store image files
 * Make a directory to store stylesheets

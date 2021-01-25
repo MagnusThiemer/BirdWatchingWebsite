@@ -5,7 +5,7 @@
 To test knowledge of web page structures, and how to represent a prospective layout design in markup.
 
 ### Project brief
-For this project, your first task is to refactor the file structure. At the moment everything is placed in the project root directory. This is not at all ideal for the overview. 
+1. For this project, your first task is to refactor the file structure. At the moment everything is placed in the project root directory. This is not at all ideal for the overview. 
 
 **Add project structure**
 * Place only HTML files in the root folder
@@ -13,7 +13,8 @@ For this project, your first task is to refactor the file structure. At the mome
 * Make a directory to store stylesheets
 * Update all references in `index.html` to match new file paths
 
-Your next task is to take the content for the homepage of a bird watching website and add structural elements to it so it can have a page layout applied to it. 
+
+2. Your next task is to take the content for the homepage of a bird watching website and add structural elements to it so it can have a page layout applied to it. 
 
 **It needs to have:**
 * A header spanning the full width of the site containing the main title for the page, the site logo, and the navigation menu. The title and logo appear side by side once styling is applied, and the navigation appears below those two items.

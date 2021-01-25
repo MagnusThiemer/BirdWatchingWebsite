@@ -11,7 +11,7 @@ For this project, your first task is to refactor the file structure. At the mome
 * Place only HTML files in the root folder
 * Make a directory to store image files
 * Make a directory to store stylesheets
-* Update all references in `index.html` to match the new file paths
+* Update all references in `index.html` to match new file paths
 
 Your next task is to take the content for the homepage of a bird watching website and add structural elements to it so it can have a page layout applied to it. 
 

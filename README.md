@@ -5,7 +5,7 @@
 To test knowledge of web page structures, and how to represent a prospective layout design in markup.
 
 ### Project brief
-For this project, your first task is to refactor the file structure for this project. At the moment everything is placed in the project root directory. This is not at all ideal for the overview. 
+For this project, your first task is to refactor the file structure. At the moment everything is placed in the project root directory. This is not at all ideal for the overview. 
 
 **Add project structure**
 * Place only HTML files in the root folder
